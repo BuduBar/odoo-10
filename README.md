@@ -1,2 +1,3 @@
 # odoo-10
-Modules odoo
+Varios modulos que corren bajo odoo 10
+

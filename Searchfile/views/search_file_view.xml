@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+    <menuitem id="search_file_menu_top"  name="Buscador"/>
+    <menuitem id="search_file_menu_view"  name="Buscador de Archivos" parent="search_file_menu_top"/>
+
+    <record id="search_file_view" model="ir.ui.view">
+        <field name="name">Search File</field>
+        <field name="model">search.file.location</field>
+        <field name="arch" type="xml">
+                <form string="Buscar el Archivo">
+                    <p>Si introduce solamente texto(Funcion, Variable, Clase, Etc.), se buscara ese texto entre los archivos, Pero si introduce un texto con alguna extencion reconocida (file.py), encontrara un archivo</p>
+                    <group rows="">
+                        <field name="nameFile"/>
+                        <field name="extension"/>
+                    </group>
+
+                    <footer>
+                        <button string="Buscar" type="object" name="button_searchFile"/>
+                        <!--<button name="create_request"
+                            string="Finished" type="object"
+                            class="btn-primary"/>-->
+                        <button string="Cancelar" class="btn-default" special="cancel" />
+                    </footer>
+
+                </form>
+        </field>
+    </record>
+
+    <record id="search_file_action" model="ir.actions.act_window">
+        <field name="name">Buscador de Archvios</field>
+        <field name="type">ir.actions.act_window</field>
+        <field name="res_model">search.file.location</field>
+        <field name="view_type">form</field>
+        <field name="view_mode">form</field>
+        <field name="view_id" ref="search_file_view"/>
+        <field name="target">new</field>
+    </record>
+
+    <menuitem id="search_file_menu_selection"  name="Buscar"
+              parent="search_file_menu_view" action="search_file_action"/>
+
+</odoo>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="res_company_warehouse_form_view" model="ir.ui.view">
+        <field name="name">res.company.warehouse.form</field>
+        <field name="model">res.company</field>
+        <field name="inherit_id" ref="base.view_company_form"/>
+        <field name="arch" type="xml">
+            <!--
+              Add the carwash fields
+            -->
+            <xpath expr="//notebook">
+                <page string="Warehouse">
+                    <group>
+                        <field name="location_mrp_origin_id"/>
+                    </group>
+                    <group>
+                        <field name="location_mrp_destination_id"/>
+                    </group>
+                </page>            
+            </xpath>
+        </field>
+    </record>
+
+</odoo>

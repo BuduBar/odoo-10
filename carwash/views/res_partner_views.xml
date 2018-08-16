@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+    <record model="ir.ui.view" id="car_wash_res_partner_form_view">
+        <field name="name">Car.Wash.res.partner.Form</field>
+        <field name="model">res.partner</field>
+        <field name="inherit_id" ref="base.view_partner_form"/>
+        <field name="arch" type="xml">
+            <!--
+              Add the carwash fields
+            -->
+            <field name="type" position="before">
+                <field name="car_brand" />
+                <field name="car_model" />
+                <field name="car_color"/>
+                <field name="car_year" />                  
+            </field>
+            <!--
+              Hacemos invisibles los siguientes Campos para no confundir
+            -->
+            <field name="website" position="attributes">
+                <attribute name="invisible">1</attribute>
+            </field>
+            <field name="category_id" position="attributes">
+                <attribute name="invisible">1</attribute>
+            </field>
+            <field name="function" position="attributes">
+                <attribute name="invisible">1</attribute>
+            </field>
+            <field name="fax" position="attributes">
+                <attribute name="invisible">1</attribute>
+            </field>
+            <field name="title" position="attributes">
+                <attribute name="invisible">1</attribute>
+            </field>
+            <field name="lang" position="attributes">
+                <attribute name="invisible">1</attribute>
+            </field>
+        </field>
+    </record>
+
+
+    <menuitem id="car_wash_admin_menu_view" name="CarWash" parent="sales_team.menu_sale_config"/>
+
+</odoo>

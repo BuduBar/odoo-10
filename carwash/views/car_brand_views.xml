@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+
+    <record id="car_brands_form_view" model="ir.ui.view">
+        <field name="name">car.brands.form</field>
+        <field name="model">car.brands</field>
+        <field name="arch" type="xml">
+            <form>
+                <field name="brand_logo"  widget="image"  class="oe_avatar"  nolabel="1"/>
+                <div class="oe_title">                    
+                    <h1>
+                        <field name="name" />
+                    </h1>
+                </div>
+                <group>
+                    <group>
+                        <field name="slug" />
+                    </group>
+                    <group>
+                    </group>
+                </group>
+                <notebook>
+                    <page string="Models">
+                        <field name="models_ids">
+                            <tree>
+                                <field name="name" />
+                            </tree>
+                        </field>
+                    </page>
+                </notebook>                
+            </form>             
+        </field>
+    </record>
+
+    <record model="ir.actions.act_window" id="car_wash_brand_action">
+        <field name="name">Brands</field>
+        <field name="res_model">car.brands</field>
+        <field name="view_type">form</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+
+    <menuitem id="car_wash_brand_menu" parent="car_wash_admin_menu_view"
+              name="Brands" action="car_wash_brand_action"/>
+
+</odoo>

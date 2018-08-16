@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+
+    <record model="ir.actions.act_window" id="car_wash_colors_action">
+        <field name="name">Car Colors</field>
+        <field name="res_model">car.colors</field>
+        <field name="view_type">form</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+
+    <menuitem id="car_wash_colors_menu" parent="car_wash_admin_menu_view"
+                name="Colors" action="car_wash_colors_action"/>
+
+</odoo>

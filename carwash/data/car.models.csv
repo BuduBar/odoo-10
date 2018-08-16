@@ -1,0 +1,1009 @@
+id,name,slug,brand_id/id
+car_models.id_1,500,500,car_brands.id_1
+car_models.id_2,Grande Punto,grande-punto,car_brands.id_1
+car_models.id_3,Punto Evo,punto-evo,car_brands.id_1
+car_models.id_4,500c,500c,car_brands.id_1
+car_models.id_5,695,695,car_brands.id_1
+car_models.id_6,Punto,punto,car_brands.id_1
+car_models.id_7,155,155,car_brands.id_2
+car_models.id_8,156,156,car_brands.id_2
+car_models.id_9,159,159,car_brands.id_2
+car_models.id_10,164,164,car_brands.id_2
+car_models.id_11,145,145,car_brands.id_2
+car_models.id_12,147,147,car_brands.id_2
+car_models.id_13,146,146,car_brands.id_2
+car_models.id_14,Gtv,gtv,car_brands.id_2
+car_models.id_15,Spider,spider,car_brands.id_2
+car_models.id_16,166,166,car_brands.id_2
+car_models.id_17,Gt,gt,car_brands.id_2
+car_models.id_18,Crosswagon,crosswagon,car_brands.id_2
+car_models.id_19,Brera,brera,car_brands.id_2
+car_models.id_20,90,90,car_brands.id_2
+car_models.id_21,75,75,car_brands.id_2
+car_models.id_22,33,33,car_brands.id_2
+car_models.id_23,Giulietta,giulietta,car_brands.id_2
+car_models.id_24,Sprint,sprint,car_brands.id_2
+car_models.id_25,Mito,mito,car_brands.id_2
+car_models.id_26,Expander,expander,car_brands.id_3
+car_models.id_27,10,10,car_brands.id_3
+car_models.id_28,24,24,car_brands.id_3
+car_models.id_29,Dacia,dacia,car_brands.id_3
+car_models.id_30,Rocsta,rocsta,car_brands.id_4
+car_models.id_31,Rocsta,rocsta,car_brands.id_5
+car_models.id_32,Db7,db7,car_brands.id_6
+car_models.id_33,V8,v8,car_brands.id_6
+car_models.id_34,Db9,db9,car_brands.id_6
+car_models.id_35,Vanquish,vanquish,car_brands.id_6
+car_models.id_36,V8 Vantage,v8-vantage,car_brands.id_6
+car_models.id_37,Vantage,vantage,car_brands.id_6
+car_models.id_38,Dbs,dbs,car_brands.id_6
+car_models.id_39,Volante,volante,car_brands.id_6
+car_models.id_40,Virage,virage,car_brands.id_6
+car_models.id_41,Vantage V8,vantage-v8,car_brands.id_6
+car_models.id_42,Vantage V12,vantage-v12,car_brands.id_6
+car_models.id_43,Rapide,rapide,car_brands.id_6
+car_models.id_44,Cygnet,cygnet,car_brands.id_6
+car_models.id_45,80,80,car_brands.id_7
+car_models.id_46,A4,a4,car_brands.id_7
+car_models.id_47,A6,a6,car_brands.id_7
+car_models.id_48,S6,s6,car_brands.id_7
+car_models.id_49,Coupe,coupe,car_brands.id_7
+car_models.id_50,S2,s2,car_brands.id_7
+car_models.id_51,Rs2,rs2,car_brands.id_7
+car_models.id_52,A8,a8,car_brands.id_7
+car_models.id_53,Cabriolet,cabriolet,car_brands.id_7
+car_models.id_54,S8,s8,car_brands.id_7
+car_models.id_55,A3,a3,car_brands.id_7
+car_models.id_56,S4,s4,car_brands.id_7
+car_models.id_57,Tt,tt,car_brands.id_7
+car_models.id_58,S3,s3,car_brands.id_7
+car_models.id_59,Allroad Quattro,allroad-quattro,car_brands.id_7
+car_models.id_60,Rs4,rs4,car_brands.id_7
+car_models.id_61,A2,a2,car_brands.id_7
+car_models.id_62,Rs6,rs6,car_brands.id_7
+car_models.id_63,Q7,q7,car_brands.id_7
+car_models.id_64,R8,r8,car_brands.id_7
+car_models.id_65,A5,a5,car_brands.id_7
+car_models.id_66,S5,s5,car_brands.id_7
+car_models.id_67,V8,v8,car_brands.id_7
+car_models.id_68,200,200,car_brands.id_7
+car_models.id_69,100,100,car_brands.id_7
+car_models.id_70,90,90,car_brands.id_7
+car_models.id_71,Tts,tts,car_brands.id_7
+car_models.id_72,Q5,q5,car_brands.id_7
+car_models.id_73,A4 Allroad Quattro,a4-allroad-quattro,car_brands.id_7
+car_models.id_74,Tt Rs,tt-rs,car_brands.id_7
+car_models.id_75,Rs5,rs5,car_brands.id_7
+car_models.id_76,A1,a1,car_brands.id_7
+car_models.id_77,A7,a7,car_brands.id_7
+car_models.id_78,Rs3,rs3,car_brands.id_7
+car_models.id_79,Q3,q3,car_brands.id_7
+car_models.id_80,A6 Allroad Quattro,a6-allroad-quattro,car_brands.id_7
+car_models.id_81,S7,s7,car_brands.id_7
+car_models.id_82,Sq5,sq5,car_brands.id_7
+car_models.id_83,Mini,mini,car_brands.id_8
+car_models.id_84,Montego,montego,car_brands.id_8
+car_models.id_85,Maestro,maestro,car_brands.id_8
+car_models.id_86,Metro,metro,car_brands.id_8
+car_models.id_87,Mini Moke,mini-moke,car_brands.id_8
+car_models.id_88,Diesel,diesel,car_brands.id_9
+car_models.id_89,Brooklands,brooklands,car_brands.id_10
+car_models.id_90,Turbo,turbo,car_brands.id_10
+car_models.id_91,Continental,continental,car_brands.id_10
+car_models.id_92,Azure,azure,car_brands.id_10
+car_models.id_93,Arnage,arnage,car_brands.id_10
+car_models.id_94,Continental Gt,continental-gt,car_brands.id_10
+car_models.id_95,Continental Flying Spur,continental-flying-spur,car_brands.id_10
+car_models.id_96,Turbo R,turbo-r,car_brands.id_10
+car_models.id_97,Mulsanne,mulsanne,car_brands.id_10
+car_models.id_98,Eight,eight,car_brands.id_10
+car_models.id_99,Continental Gtc,continental-gtc,car_brands.id_10
+car_models.id_100,Continental Supersports,continental-supersports,car_brands.id_10
+car_models.id_101,Freeclimber Diesel,freeclimber-diesel,car_brands.id_11
+car_models.id_102,Serie 3,serie-3,car_brands.id_12
+car_models.id_103,Serie 5,serie-5,car_brands.id_12
+car_models.id_104,Compact,compact,car_brands.id_12
+car_models.id_105,Serie 7,serie-7,car_brands.id_12
+car_models.id_106,Serie 8,serie-8,car_brands.id_12
+car_models.id_107,Z3,z3,car_brands.id_12
+car_models.id_108,Z4,z4,car_brands.id_12
+car_models.id_109,Z8,z8,car_brands.id_12
+car_models.id_110,X5,x5,car_brands.id_12
+car_models.id_111,Serie 6,serie-6,car_brands.id_12
+car_models.id_112,X3,x3,car_brands.id_12
+car_models.id_113,Serie 1,serie-1,car_brands.id_12
+car_models.id_114,Z1,z1,car_brands.id_12
+car_models.id_115,X6,x6,car_brands.id_12
+car_models.id_116,X1,x1,car_brands.id_12
+car_models.id_117,Seville,seville,car_brands.id_13
+car_models.id_118,Sts,sts,car_brands.id_13
+car_models.id_119,El Dorado,el-dorado,car_brands.id_13
+car_models.id_120,Cts,cts,car_brands.id_13
+car_models.id_121,Xlr,xlr,car_brands.id_13
+car_models.id_122,Srx,srx,car_brands.id_13
+car_models.id_123,Escalade,escalade,car_brands.id_13
+car_models.id_124,Bls,bls,car_brands.id_13
+car_models.id_125,Corvette,corvette,car_brands.id_14
+car_models.id_126,Blazer,blazer,car_brands.id_14
+car_models.id_127,Astro,astro,car_brands.id_14
+car_models.id_128,Nubira,nubira,car_brands.id_14
+car_models.id_129,Evanda,evanda,car_brands.id_14
+car_models.id_130,Trans Sport,trans-sport,car_brands.id_14
+car_models.id_131,Camaro,camaro,car_brands.id_14
+car_models.id_132,Matiz,matiz,car_brands.id_14
+car_models.id_133,Alero,alero,car_brands.id_14
+car_models.id_134,Tahoe,tahoe,car_brands.id_14
+car_models.id_135,Tacuma,tacuma,car_brands.id_14
+car_models.id_136,Trailblazer,trailblazer,car_brands.id_14
+car_models.id_137,Kalos,kalos,car_brands.id_14
+car_models.id_138,Aveo,aveo,car_brands.id_14
+car_models.id_139,Lacetti,lacetti,car_brands.id_14
+car_models.id_140,Epica,epica,car_brands.id_14
+car_models.id_141,Captiva,captiva,car_brands.id_14
+car_models.id_142,Hhr,hhr,car_brands.id_14
+car_models.id_143,Cruze,cruze,car_brands.id_14
+car_models.id_144,Spark,spark,car_brands.id_14
+car_models.id_145,Orlando,orlando,car_brands.id_14
+car_models.id_146,Volt,volt,car_brands.id_14
+car_models.id_147,Malibu,malibu,car_brands.id_14
+car_models.id_148,Vision,vision,car_brands.id_15
+car_models.id_149,300m,300m,car_brands.id_15
+car_models.id_150,Grand Voyager,grand-voyager,car_brands.id_15
+car_models.id_151,Viper,viper,car_brands.id_15
+car_models.id_152,Neon,neon,car_brands.id_15
+car_models.id_153,Voyager,voyager,car_brands.id_15
+car_models.id_154,Stratus,stratus,car_brands.id_15
+car_models.id_155,Sebring,sebring,car_brands.id_15
+car_models.id_156,Sebring 200c,sebring-200c,car_brands.id_15
+car_models.id_157,New Yorker,new-yorker,car_brands.id_15
+car_models.id_158,Pt Cruiser,pt-cruiser,car_brands.id_15
+car_models.id_159,Crossfire,crossfire,car_brands.id_15
+car_models.id_160,300c,300c,car_brands.id_15
+car_models.id_161,Le Baron,le-baron,car_brands.id_15
+car_models.id_162,Saratoga,saratoga,car_brands.id_15
+car_models.id_163,Xantia,xantia,car_brands.id_16
+car_models.id_164,Xm,xm,car_brands.id_16
+car_models.id_165,Ax,ax,car_brands.id_16
+car_models.id_166,Zx,zx,car_brands.id_16
+car_models.id_167,Evasion,evasion,car_brands.id_16
+car_models.id_168,C8,c8,car_brands.id_16
+car_models.id_169,Saxo,saxo,car_brands.id_16
+car_models.id_170,C2,c2,car_brands.id_16
+car_models.id_171,Xsara,xsara,car_brands.id_16
+car_models.id_172,C4,c4,car_brands.id_16
+car_models.id_173,Xsara Picasso,xsara-picasso,car_brands.id_16
+car_models.id_174,C5,c5,car_brands.id_16
+car_models.id_175,C3,c3,car_brands.id_16
+car_models.id_176,C3 Pluriel,c3-pluriel,car_brands.id_16
+car_models.id_177,C1,c1,car_brands.id_16
+car_models.id_178,C6,c6,car_brands.id_16
+car_models.id_179,Grand C4 Picasso,grand-c4-picasso,car_brands.id_16
+car_models.id_180,C4 Picasso,c4-picasso,car_brands.id_16
+car_models.id_181,Ccrosser,ccrosser,car_brands.id_16
+car_models.id_182,C15,c15,car_brands.id_16
+car_models.id_183,Jumper,jumper,car_brands.id_16
+car_models.id_184,Jumpy,jumpy,car_brands.id_16
+car_models.id_185,Berlingo,berlingo,car_brands.id_16
+car_models.id_186,Bx,bx,car_brands.id_16
+car_models.id_187,C25,c25,car_brands.id_16
+car_models.id_188,Cx,cx,car_brands.id_16
+car_models.id_189,Gsa,gsa,car_brands.id_16
+car_models.id_190,Visa,visa,car_brands.id_16
+car_models.id_191,Lna,lna,car_brands.id_16
+car_models.id_192,2cv,2cv,car_brands.id_16
+car_models.id_193,Nemo,nemo,car_brands.id_16
+car_models.id_194,C4 Sedan,c4-sedan,car_brands.id_16
+car_models.id_195,Berlingo First,berlingo-first,car_brands.id_16
+car_models.id_196,C3 Picasso,c3-picasso,car_brands.id_16
+car_models.id_197,Ds3,ds3,car_brands.id_16
+car_models.id_198,Czero,czero,car_brands.id_16
+car_models.id_199,Ds4,ds4,car_brands.id_16
+car_models.id_200,Ds5,ds5,car_brands.id_16
+car_models.id_201,C4 Aircross,c4-aircross,car_brands.id_16
+car_models.id_202,Celysee,celysee,car_brands.id_16
+car_models.id_203,Corvette,corvette,car_brands.id_17
+car_models.id_204,Contac,contac,car_brands.id_18
+car_models.id_205,Logan,logan,car_brands.id_18
+car_models.id_206,Sandero,sandero,car_brands.id_18
+car_models.id_207,Duster,duster,car_brands.id_18
+car_models.id_208,Lodgy,lodgy,car_brands.id_18
+car_models.id_209,Nexia,nexia,car_brands.id_19
+car_models.id_210,Aranos,aranos,car_brands.id_19
+car_models.id_211,Lanos,lanos,car_brands.id_19
+car_models.id_212,Nubira,nubira,car_brands.id_19
+car_models.id_213,Compact,compact,car_brands.id_19
+car_models.id_214,Nubira Compact,nubira-compact,car_brands.id_19
+car_models.id_215,Leganza,leganza,car_brands.id_19
+car_models.id_216,Evanda,evanda,car_brands.id_19
+car_models.id_217,Matiz,matiz,car_brands.id_19
+car_models.id_218,Tacuma,tacuma,car_brands.id_19
+car_models.id_219,Kalos,kalos,car_brands.id_19
+car_models.id_220,Lacetti,lacetti,car_brands.id_19
+car_models.id_221,Applause,applause,car_brands.id_21
+car_models.id_222,Charade,charade,car_brands.id_21
+car_models.id_223,Rocky,rocky,car_brands.id_21
+car_models.id_224,Feroza,feroza,car_brands.id_21
+car_models.id_225,Terios,terios,car_brands.id_21
+car_models.id_226,Sirion,sirion,car_brands.id_21
+car_models.id_227,Serie Xj,serie-xj,car_brands.id_22
+car_models.id_228,Xj,xj,car_brands.id_22
+car_models.id_229,Double Six,double-six,car_brands.id_22
+car_models.id_230,Six,six,car_brands.id_22
+car_models.id_231,Series Iii,series-iii,car_brands.id_22
+car_models.id_232,Viper,viper,car_brands.id_23
+car_models.id_233,Caliber,caliber,car_brands.id_23
+car_models.id_234,Nitro,nitro,car_brands.id_23
+car_models.id_235,Avenger,avenger,car_brands.id_23
+car_models.id_236,Journey,journey,car_brands.id_23
+car_models.id_237,F355,f355,car_brands.id_24
+car_models.id_238,360,360,car_brands.id_24
+car_models.id_239,F430,f430,car_brands.id_24
+car_models.id_240,F512 M,f512-m,car_brands.id_24
+car_models.id_241,550 Maranello,550-maranello,car_brands.id_24
+car_models.id_242,575m Maranello,575m-maranello,car_brands.id_24
+car_models.id_243,599,599,car_brands.id_24
+car_models.id_244,456,456,car_brands.id_24
+car_models.id_245,456m,456m,car_brands.id_24
+car_models.id_246,612,612,car_brands.id_24
+car_models.id_247,F50,f50,car_brands.id_24
+car_models.id_248,Enzo,enzo,car_brands.id_24
+car_models.id_249,Superamerica,superamerica,car_brands.id_24
+car_models.id_250,430,430,car_brands.id_24
+car_models.id_251,348,348,car_brands.id_24
+car_models.id_252,Testarossa,testarossa,car_brands.id_24
+car_models.id_253,512,512,car_brands.id_24
+car_models.id_254,355,355,car_brands.id_24
+car_models.id_255,F40,f40,car_brands.id_24
+car_models.id_256,412,412,car_brands.id_24
+car_models.id_257,Mondial,mondial,car_brands.id_24
+car_models.id_258,328,328,car_brands.id_24
+car_models.id_259,California,california,car_brands.id_24
+car_models.id_260,458,458,car_brands.id_24
+car_models.id_261,Ff,ff,car_brands.id_24
+car_models.id_262,Croma,croma,car_brands.id_25
+car_models.id_263,Cinquecento,cinquecento,car_brands.id_25
+car_models.id_264,Seicento,seicento,car_brands.id_25
+car_models.id_265,Punto,punto,car_brands.id_25
+car_models.id_266,Grande Punto,grande-punto,car_brands.id_25
+car_models.id_267,Panda,panda,car_brands.id_25
+car_models.id_268,Tipo,tipo,car_brands.id_25
+car_models.id_269,Coupe,coupe,car_brands.id_25
+car_models.id_270,Uno,uno,car_brands.id_25
+car_models.id_271,Ulysse,ulysse,car_brands.id_25
+car_models.id_272,Tempra,tempra,car_brands.id_25
+car_models.id_273,Marea,marea,car_brands.id_25
+car_models.id_274,Barchetta,barchetta,car_brands.id_25
+car_models.id_275,Bravo,bravo,car_brands.id_25
+car_models.id_276,Stilo,stilo,car_brands.id_25
+car_models.id_277,Brava,brava,car_brands.id_25
+car_models.id_278,Palio Weekend,palio-weekend,car_brands.id_25
+car_models.id_279,600,600,car_brands.id_25
+car_models.id_280,Multipla,multipla,car_brands.id_25
+car_models.id_281,Idea,idea,car_brands.id_25
+car_models.id_282,Sedici,sedici,car_brands.id_25
+car_models.id_283,Linea,linea,car_brands.id_25
+car_models.id_284,500,500,car_brands.id_25
+car_models.id_285,Fiorino,fiorino,car_brands.id_25
+car_models.id_286,Ducato,ducato,car_brands.id_25
+car_models.id_287,Doblo Cargo,doblo-cargo,car_brands.id_25
+car_models.id_288,Doblo,doblo,car_brands.id_25
+car_models.id_289,Strada,strada,car_brands.id_25
+car_models.id_290,Regata,regata,car_brands.id_25
+car_models.id_291,Talento,talento,car_brands.id_25
+car_models.id_292,Argenta,argenta,car_brands.id_25
+car_models.id_293,Ritmo,ritmo,car_brands.id_25
+car_models.id_294,Punto Classic,punto-classic,car_brands.id_25
+car_models.id_295,Qubo,qubo,car_brands.id_25
+car_models.id_296,Punto Evo,punto-evo,car_brands.id_25
+car_models.id_297,500c,500c,car_brands.id_25
+car_models.id_298,Freemont,freemont,car_brands.id_25
+car_models.id_299,Panda Classic,panda-classic,car_brands.id_25
+car_models.id_300,500l,500l,car_brands.id_25
+car_models.id_301,Maverick,maverick,car_brands.id_26
+car_models.id_302,Escort,escort,car_brands.id_26
+car_models.id_303,Focus,focus,car_brands.id_26
+car_models.id_304,Mondeo,mondeo,car_brands.id_26
+car_models.id_305,Scorpio,scorpio,car_brands.id_26
+car_models.id_306,Fiesta,fiesta,car_brands.id_26
+car_models.id_307,Probe,probe,car_brands.id_26
+car_models.id_308,Explorer,explorer,car_brands.id_26
+car_models.id_309,Galaxy,galaxy,car_brands.id_26
+car_models.id_310,Ka,ka,car_brands.id_26
+car_models.id_311,Puma,puma,car_brands.id_26
+car_models.id_312,Cougar,cougar,car_brands.id_26
+car_models.id_313,Focus Cmax,focus-cmax,car_brands.id_26
+car_models.id_314,Fusion,fusion,car_brands.id_26
+car_models.id_315,Streetka,streetka,car_brands.id_26
+car_models.id_316,Cmax,cmax,car_brands.id_26
+car_models.id_317,Smax,smax,car_brands.id_26
+car_models.id_318,Transit,transit,car_brands.id_26
+car_models.id_319,Courier,courier,car_brands.id_26
+car_models.id_320,Ranger,ranger,car_brands.id_26
+car_models.id_321,Sierra,sierra,car_brands.id_26
+car_models.id_322,Orion,orion,car_brands.id_26
+car_models.id_323,Pick Up,pick-up,car_brands.id_26
+car_models.id_324,Capri,capri,car_brands.id_26
+car_models.id_325,Granada,granada,car_brands.id_26
+car_models.id_326,Kuga,kuga,car_brands.id_26
+car_models.id_327,Grand Cmax,grand-cmax,car_brands.id_26
+car_models.id_328,Bmax,bmax,car_brands.id_26
+car_models.id_329,Tourneo Custom,tourneo-custom,car_brands.id_26
+car_models.id_330,Exceed,exceed,car_brands.id_27
+car_models.id_331,Santamo,santamo,car_brands.id_27
+car_models.id_332,Super Exceed,super-exceed,car_brands.id_27
+car_models.id_333,Accord,accord,car_brands.id_29
+car_models.id_334,Civic,civic,car_brands.id_29
+car_models.id_335,Crx,crx,car_brands.id_29
+car_models.id_336,Prelude,prelude,car_brands.id_29
+car_models.id_337,Nsx,nsx,car_brands.id_29
+car_models.id_338,Legend,legend,car_brands.id_29
+car_models.id_339,Crv,crv,car_brands.id_29
+car_models.id_340,Hrv,hrv,car_brands.id_29
+car_models.id_341,Logo,logo,car_brands.id_29
+car_models.id_342,S2000,s2000,car_brands.id_29
+car_models.id_343,Stream,stream,car_brands.id_29
+car_models.id_344,Jazz,jazz,car_brands.id_29
+car_models.id_345,Frv,frv,car_brands.id_29
+car_models.id_346,Concerto,concerto,car_brands.id_29
+car_models.id_347,Insight,insight,car_brands.id_29
+car_models.id_348,Crz,crz,car_brands.id_29
+car_models.id_349,H2,h2,car_brands.id_30
+car_models.id_350,H3,h3,car_brands.id_30
+car_models.id_351,H3t,h3t,car_brands.id_30
+car_models.id_352,Lantra,lantra,car_brands.id_31
+car_models.id_353,Sonata,sonata,car_brands.id_31
+car_models.id_354,Elantra,elantra,car_brands.id_31
+car_models.id_355,Accent,accent,car_brands.id_31
+car_models.id_356,Scoupe,scoupe,car_brands.id_31
+car_models.id_357,Coupe,coupe,car_brands.id_31
+car_models.id_358,Atos,atos,car_brands.id_31
+car_models.id_359,H1,h1,car_brands.id_31
+car_models.id_360,Atos Prime,atos-prime,car_brands.id_31
+car_models.id_361,Xg,xg,car_brands.id_31
+car_models.id_362,Trajet,trajet,car_brands.id_31
+car_models.id_363,Santa Fe,santa-fe,car_brands.id_31
+car_models.id_364,Terracan,terracan,car_brands.id_31
+car_models.id_365,Matrix,matrix,car_brands.id_31
+car_models.id_366,Getz,getz,car_brands.id_31
+car_models.id_367,Tucson,tucson,car_brands.id_31
+car_models.id_368,I30,i30,car_brands.id_31
+car_models.id_369,Pony,pony,car_brands.id_31
+car_models.id_370,Grandeur,grandeur,car_brands.id_31
+car_models.id_371,I10,i10,car_brands.id_31
+car_models.id_372,I800,i800,car_brands.id_31
+car_models.id_373,Sonata Fl,sonata-fl,car_brands.id_31
+car_models.id_374,Ix55,ix55,car_brands.id_31
+car_models.id_375,I20,i20,car_brands.id_31
+car_models.id_376,Ix35,ix35,car_brands.id_31
+car_models.id_377,Ix20,ix20,car_brands.id_31
+car_models.id_378,Genesis,genesis,car_brands.id_31
+car_models.id_379,I40,i40,car_brands.id_31
+car_models.id_380,Veloster,veloster,car_brands.id_31
+car_models.id_381,G,g,car_brands.id_32
+car_models.id_382,Ex,ex,car_brands.id_32
+car_models.id_383,Fx,fx,car_brands.id_32
+car_models.id_384,M,m,car_brands.id_32
+car_models.id_385,Elba,elba,car_brands.id_33
+car_models.id_386,Minitre,minitre,car_brands.id_33
+car_models.id_387,Trooper,trooper,car_brands.id_34
+car_models.id_388,Pick Up,pick-up,car_brands.id_34
+car_models.id_389,D Max,d-max,car_brands.id_34
+car_models.id_390,Rodeo,rodeo,car_brands.id_34
+car_models.id_391,Dmax,dmax,car_brands.id_34
+car_models.id_392,Trroper,trroper,car_brands.id_34
+car_models.id_393,Daily,daily,car_brands.id_35
+car_models.id_394,Massif,massif,car_brands.id_35
+car_models.id_395,Daily,daily,car_brands.id_36
+car_models.id_396,Duty,duty,car_brands.id_36
+car_models.id_397,Serie Xj,serie-xj,car_brands.id_37
+car_models.id_398,Serie Xk,serie-xk,car_brands.id_37
+car_models.id_399,Xj,xj,car_brands.id_37
+car_models.id_400,Stype,stype,car_brands.id_37
+car_models.id_401,Xf,xf,car_brands.id_37
+car_models.id_402,Xtype,xtype,car_brands.id_37
+car_models.id_403,Wrangler,wrangler,car_brands.id_38
+car_models.id_404,Cherokee,cherokee,car_brands.id_38
+car_models.id_405,Grand Cherokee,grand-cherokee,car_brands.id_38
+car_models.id_406,Commander,commander,car_brands.id_38
+car_models.id_407,Compass,compass,car_brands.id_38
+car_models.id_408,Wrangler Unlimited,wrangler-unlimited,car_brands.id_38
+car_models.id_409,Patriot,patriot,car_brands.id_38
+car_models.id_410,Sportage,sportage,car_brands.id_39
+car_models.id_411,Sephia,sephia,car_brands.id_39
+car_models.id_412,Sephia Ii,sephia-ii,car_brands.id_39
+car_models.id_413,Pride,pride,car_brands.id_39
+car_models.id_414,Clarus,clarus,car_brands.id_39
+car_models.id_415,Shuma,shuma,car_brands.id_39
+car_models.id_416,Carnival,carnival,car_brands.id_39
+car_models.id_417,Joice,joice,car_brands.id_39
+car_models.id_418,Magentis,magentis,car_brands.id_39
+car_models.id_419,Carens,carens,car_brands.id_39
+car_models.id_420,Rio,rio,car_brands.id_39
+car_models.id_421,Cerato,cerato,car_brands.id_39
+car_models.id_422,Sorento,sorento,car_brands.id_39
+car_models.id_423,Opirus,opirus,car_brands.id_39
+car_models.id_424,Picanto,picanto,car_brands.id_39
+car_models.id_425,Ceed,ceed,car_brands.id_39
+car_models.id_426,Ceed Sporty Wagon,ceed-sporty-wagon,car_brands.id_39
+car_models.id_427,Proceed,proceed,car_brands.id_39
+car_models.id_428,K2500 Frontier,k2500-frontier,car_brands.id_39
+car_models.id_429,K2500,k2500,car_brands.id_39
+car_models.id_430,Soul,soul,car_brands.id_39
+car_models.id_431,Venga,venga,car_brands.id_39
+car_models.id_432,Optima,optima,car_brands.id_39
+car_models.id_433,Ceed Sportswagon,ceed-sportswagon,car_brands.id_39
+car_models.id_434,Samara,samara,car_brands.id_40
+car_models.id_435,Niva,niva,car_brands.id_40
+car_models.id_436,Sagona,sagona,car_brands.id_40
+car_models.id_437,Stawra 2110,stawra-2110,car_brands.id_40
+car_models.id_438,214,214,car_brands.id_40
+car_models.id_439,Kalina,kalina,car_brands.id_40
+car_models.id_440,Serie 2100,serie-2100,car_brands.id_40
+car_models.id_441,Priora,priora,car_brands.id_40
+car_models.id_442,Gallardo,gallardo,car_brands.id_41
+car_models.id_443,Murcielago,murcielago,car_brands.id_41
+car_models.id_444,Aventador,aventador,car_brands.id_41
+car_models.id_445,Delta,delta,car_brands.id_42
+car_models.id_446,K,k,car_brands.id_42
+car_models.id_447,Y10,y10,car_brands.id_42
+car_models.id_448,Dedra,dedra,car_brands.id_42
+car_models.id_449,Lybra,lybra,car_brands.id_42
+car_models.id_450,Z,z,car_brands.id_42
+car_models.id_451,Y,y,car_brands.id_42
+car_models.id_452,Ypsilon,ypsilon,car_brands.id_42
+car_models.id_453,Thesis,thesis,car_brands.id_42
+car_models.id_454,Phedra,phedra,car_brands.id_42
+car_models.id_455,Musa,musa,car_brands.id_42
+car_models.id_456,Thema,thema,car_brands.id_42
+car_models.id_457,Zeta,zeta,car_brands.id_42
+car_models.id_458,Kappa,kappa,car_brands.id_42
+car_models.id_459,Trevi,trevi,car_brands.id_42
+car_models.id_460,Prisma,prisma,car_brands.id_42
+car_models.id_461,A112,a112,car_brands.id_42
+car_models.id_462,Ypsilon Elefantino,ypsilon-elefantino,car_brands.id_42
+car_models.id_463,Voyager,voyager,car_brands.id_42
+car_models.id_464,Range Rover,range-rover,car_brands.id_43
+car_models.id_465,Defender,defender,car_brands.id_43
+car_models.id_466,Discovery,discovery,car_brands.id_43
+car_models.id_467,Freelander,freelander,car_brands.id_43
+car_models.id_468,Range Rover Sport,range-rover-sport,car_brands.id_43
+car_models.id_469,Discovery 4,discovery-4,car_brands.id_43
+car_models.id_470,Range Rover Evoque,range-rover-evoque,car_brands.id_43
+car_models.id_471,Maxus,maxus,car_brands.id_44
+car_models.id_472,Ls400,ls400,car_brands.id_45
+car_models.id_473,Ls430,ls430,car_brands.id_45
+car_models.id_474,Gs300,gs300,car_brands.id_45
+car_models.id_475,Is200,is200,car_brands.id_45
+car_models.id_476,Rx300,rx300,car_brands.id_45
+car_models.id_477,Gs430,gs430,car_brands.id_45
+car_models.id_478,Gs460,gs460,car_brands.id_45
+car_models.id_479,Sc430,sc430,car_brands.id_45
+car_models.id_480,Is300,is300,car_brands.id_45
+car_models.id_481,Is250,is250,car_brands.id_45
+car_models.id_482,Rx400h,rx400h,car_brands.id_45
+car_models.id_483,Is220d,is220d,car_brands.id_45
+car_models.id_484,Rx350,rx350,car_brands.id_45
+car_models.id_485,Gs450h,gs450h,car_brands.id_45
+car_models.id_486,Ls460,ls460,car_brands.id_45
+car_models.id_487,Ls600h,ls600h,car_brands.id_45
+car_models.id_488,Ls,ls,car_brands.id_45
+car_models.id_489,Gs,gs,car_brands.id_45
+car_models.id_490,Is,is,car_brands.id_45
+car_models.id_491,Sc,sc,car_brands.id_45
+car_models.id_492,Rx,rx,car_brands.id_45
+car_models.id_493,Ct,ct,car_brands.id_45
+car_models.id_494,Elise,elise,car_brands.id_46
+car_models.id_495,Exige,exige,car_brands.id_46
+car_models.id_496,Bolero Pickup,bolero-pickup,car_brands.id_47
+car_models.id_497,Goa Pickup,goa-pickup,car_brands.id_47
+car_models.id_498,Goa,goa,car_brands.id_47
+car_models.id_499,Cj,cj,car_brands.id_47
+car_models.id_500,Pikup,pikup,car_brands.id_47
+car_models.id_501,Thar,thar,car_brands.id_47
+car_models.id_502,Ghibli,ghibli,car_brands.id_48
+car_models.id_503,Shamal,shamal,car_brands.id_48
+car_models.id_504,Quattroporte,quattroporte,car_brands.id_48
+car_models.id_505,3200 Gt,3200-gt,car_brands.id_48
+car_models.id_506,Coupe,coupe,car_brands.id_48
+car_models.id_507,Spyder,spyder,car_brands.id_48
+car_models.id_508,Gransport,gransport,car_brands.id_48
+car_models.id_509,Granturismo,granturismo,car_brands.id_48
+car_models.id_510,430,430,car_brands.id_48
+car_models.id_511,Biturbo,biturbo,car_brands.id_48
+car_models.id_512,228,228,car_brands.id_48
+car_models.id_513,224,224,car_brands.id_48
+car_models.id_514,Grancabrio,grancabrio,car_brands.id_48
+car_models.id_515,Maybach,maybach,car_brands.id_49
+car_models.id_516,Xedos 6,xedos-6,car_brands.id_50
+car_models.id_517,626,626,car_brands.id_50
+car_models.id_518,121,121,car_brands.id_50
+car_models.id_519,Xedos 9,xedos-9,car_brands.id_50
+car_models.id_520,323,323,car_brands.id_50
+car_models.id_521,Mx3,mx3,car_brands.id_50
+car_models.id_522,Rx7,rx7,car_brands.id_50
+car_models.id_523,Mx5,mx5,car_brands.id_50
+car_models.id_524,Mazda3,mazda3,car_brands.id_50
+car_models.id_525,Mpv,mpv,car_brands.id_50
+car_models.id_526,Demio,demio,car_brands.id_50
+car_models.id_527,Premacy,premacy,car_brands.id_50
+car_models.id_528,Tribute,tribute,car_brands.id_50
+car_models.id_529,Mazda6,mazda6,car_brands.id_50
+car_models.id_530,Mazda2,mazda2,car_brands.id_50
+car_models.id_531,Rx8,rx8,car_brands.id_50
+car_models.id_532,Mazda5,mazda5,car_brands.id_50
+car_models.id_533,Cx7,cx7,car_brands.id_50
+car_models.id_534,Serie B,serie-b,car_brands.id_50
+car_models.id_535,B2500,b2500,car_brands.id_50
+car_models.id_536,Bt50,bt50,car_brands.id_50
+car_models.id_537,Mx6,mx6,car_brands.id_50
+car_models.id_538,929,929,car_brands.id_50
+car_models.id_539,Cx5,cx5,car_brands.id_50
+car_models.id_540,Clase C,clase-c,car_brands.id_51
+car_models.id_541,Clase E,clase-e,car_brands.id_51
+car_models.id_542,Clase Sl,clase-sl,car_brands.id_51
+car_models.id_543,Clase S,clase-s,car_brands.id_51
+car_models.id_544,Clase Cl,clase-cl,car_brands.id_51
+car_models.id_545,Clase G,clase-g,car_brands.id_51
+car_models.id_546,Clase Slk,clase-slk,car_brands.id_51
+car_models.id_547,Clase V,clase-v,car_brands.id_51
+car_models.id_548,Viano,viano,car_brands.id_51
+car_models.id_549,Clase Clk,clase-clk,car_brands.id_51
+car_models.id_550,Clase A,clase-a,car_brands.id_51
+car_models.id_551,Clase M,clase-m,car_brands.id_51
+car_models.id_552,Vaneo,vaneo,car_brands.id_51
+car_models.id_553,Slklasse,slklasse,car_brands.id_51
+car_models.id_554,Slr Mclaren,slr-mclaren,car_brands.id_51
+car_models.id_555,Clase Cls,clase-cls,car_brands.id_51
+car_models.id_556,Clase R,clase-r,car_brands.id_51
+car_models.id_557,Clase Gl,clase-gl,car_brands.id_51
+car_models.id_558,Clase B,clase-b,car_brands.id_51
+car_models.id_559,100d,100d,car_brands.id_51
+car_models.id_560,140d,140d,car_brands.id_51
+car_models.id_561,180d,180d,car_brands.id_51
+car_models.id_562,Sprinter,sprinter,car_brands.id_51
+car_models.id_563,Vito,vito,car_brands.id_51
+car_models.id_564,Transporter,transporter,car_brands.id_51
+car_models.id_565,280,280,car_brands.id_51
+car_models.id_566,220,220,car_brands.id_51
+car_models.id_567,200,200,car_brands.id_51
+car_models.id_568,190,190,car_brands.id_51
+car_models.id_569,600,600,car_brands.id_51
+car_models.id_570,400,400,car_brands.id_51
+car_models.id_571,Clase Sl R129,clase-sl-r129,car_brands.id_51
+car_models.id_572,300,300,car_brands.id_51
+car_models.id_573,500,500,car_brands.id_51
+car_models.id_574,420,420,car_brands.id_51
+car_models.id_575,260,260,car_brands.id_51
+car_models.id_576,230,230,car_brands.id_51
+car_models.id_577,Clase Clc,clase-clc,car_brands.id_51
+car_models.id_578,Clase Glk,clase-glk,car_brands.id_51
+car_models.id_579,Sls Amg,sls-amg,car_brands.id_51
+car_models.id_580,Mgf,mgf,car_brands.id_52
+car_models.id_581,Tf,tf,car_brands.id_52
+car_models.id_582,Zr,zr,car_brands.id_52
+car_models.id_583,Zs,zs,car_brands.id_52
+car_models.id_584,Zt,zt,car_brands.id_52
+car_models.id_585,Ztt,ztt,car_brands.id_52
+car_models.id_586,Mini,mini,car_brands.id_52
+car_models.id_587,Countryman,countryman,car_brands.id_52
+car_models.id_588,Paceman,paceman,car_brands.id_52
+car_models.id_589,Montero,montero,car_brands.id_54
+car_models.id_590,Galant,galant,car_brands.id_54
+car_models.id_591,Colt,colt,car_brands.id_54
+car_models.id_592,Space Wagon,space-wagon,car_brands.id_54
+car_models.id_593,Space Runner,space-runner,car_brands.id_54
+car_models.id_594,Space Gear,space-gear,car_brands.id_54
+car_models.id_595,3000 Gt,3000-gt,car_brands.id_54
+car_models.id_596,Carisma,carisma,car_brands.id_54
+car_models.id_597,Eclipse,eclipse,car_brands.id_54
+car_models.id_598,Space Star,space-star,car_brands.id_54
+car_models.id_599,Montero Sport,montero-sport,car_brands.id_54
+car_models.id_600,Montero Io,montero-io,car_brands.id_54
+car_models.id_601,Outlander,outlander,car_brands.id_54
+car_models.id_602,Lancer,lancer,car_brands.id_54
+car_models.id_603,Grandis,grandis,car_brands.id_54
+car_models.id_604,L200,l200,car_brands.id_54
+car_models.id_605,Canter,canter,car_brands.id_54
+car_models.id_606,300 Gt,300-gt,car_brands.id_54
+car_models.id_607,Asx,asx,car_brands.id_54
+car_models.id_608,Imiev,imiev,car_brands.id_54
+car_models.id_609,44,44,car_brands.id_55
+car_models.id_610,Plus 8,plus-8,car_brands.id_55
+car_models.id_611,Aero 8,aero-8,car_brands.id_55
+car_models.id_612,V6,v6,car_brands.id_55
+car_models.id_613,Roadster,roadster,car_brands.id_55
+car_models.id_614,4,4,car_brands.id_55
+car_models.id_615,Plus 4,plus-4,car_brands.id_55
+car_models.id_616,Terrano Ii,terrano-ii,car_brands.id_56
+car_models.id_617,Terrano,terrano,car_brands.id_56
+car_models.id_618,Micra,micra,car_brands.id_56
+car_models.id_619,Sunny,sunny,car_brands.id_56
+car_models.id_620,Primera,primera,car_brands.id_56
+car_models.id_621,Serena,serena,car_brands.id_56
+car_models.id_622,Patrol,patrol,car_brands.id_56
+car_models.id_623,Maxima Qx,maxima-qx,car_brands.id_56
+car_models.id_624,200 Sx,200-sx,car_brands.id_56
+car_models.id_625,300 Zx,300-zx,car_brands.id_56
+car_models.id_626,Patrol Gr,patrol-gr,car_brands.id_56
+car_models.id_627,100 Nx,100-nx,car_brands.id_56
+car_models.id_628,Almera,almera,car_brands.id_56
+car_models.id_629,Pathfinder,pathfinder,car_brands.id_56
+car_models.id_630,Almera Tino,almera-tino,car_brands.id_56
+car_models.id_631,Xtrail,xtrail,car_brands.id_56
+car_models.id_632,350z,350z,car_brands.id_56
+car_models.id_633,Murano,murano,car_brands.id_56
+car_models.id_634,Note,note,car_brands.id_56
+car_models.id_635,Qashqai,qashqai,car_brands.id_56
+car_models.id_636,Tiida,tiida,car_brands.id_56
+car_models.id_637,Vanette,vanette,car_brands.id_56
+car_models.id_638,Trade,trade,car_brands.id_56
+car_models.id_639,Vanette Cargo,vanette-cargo,car_brands.id_56
+car_models.id_640,Pickup,pickup,car_brands.id_56
+car_models.id_641,Navara,navara,car_brands.id_56
+car_models.id_642,Cabstar E,cabstar-e,car_brands.id_56
+car_models.id_643,Cabstar,cabstar,car_brands.id_56
+car_models.id_644,Maxima,maxima,car_brands.id_56
+car_models.id_645,Camion,camion,car_brands.id_56
+car_models.id_646,Prairie,prairie,car_brands.id_56
+car_models.id_647,Bluebird,bluebird,car_brands.id_56
+car_models.id_648,Np300 Pick Up,np300-pick-up,car_brands.id_56
+car_models.id_649,Qashqai2,qashqai2,car_brands.id_56
+car_models.id_650,Pixo,pixo,car_brands.id_56
+car_models.id_651,Gtr,gtr,car_brands.id_56
+car_models.id_652,370z,370z,car_brands.id_56
+car_models.id_653,Cube,cube,car_brands.id_56
+car_models.id_654,Juke,juke,car_brands.id_56
+car_models.id_655,Leaf,leaf,car_brands.id_56
+car_models.id_656,Evalia,evalia,car_brands.id_56
+car_models.id_657,Astra,astra,car_brands.id_57
+car_models.id_658,Vectra,vectra,car_brands.id_57
+car_models.id_659,Calibra,calibra,car_brands.id_57
+car_models.id_660,Corsa,corsa,car_brands.id_57
+car_models.id_661,Omega,omega,car_brands.id_57
+car_models.id_662,Frontera,frontera,car_brands.id_57
+car_models.id_663,Tigra,tigra,car_brands.id_57
+car_models.id_664,Monterey,monterey,car_brands.id_57
+car_models.id_665,Sintra,sintra,car_brands.id_57
+car_models.id_666,Zafira,zafira,car_brands.id_57
+car_models.id_667,Agila,agila,car_brands.id_57
+car_models.id_668,Speedster,speedster,car_brands.id_57
+car_models.id_669,Signum,signum,car_brands.id_57
+car_models.id_670,Meriva,meriva,car_brands.id_57
+car_models.id_671,Antara,antara,car_brands.id_57
+car_models.id_672,Gt,gt,car_brands.id_57
+car_models.id_673,Combo,combo,car_brands.id_57
+car_models.id_674,Movano,movano,car_brands.id_57
+car_models.id_675,Vivaro,vivaro,car_brands.id_57
+car_models.id_676,Kadett,kadett,car_brands.id_57
+car_models.id_677,Monza,monza,car_brands.id_57
+car_models.id_678,Senator,senator,car_brands.id_57
+car_models.id_679,Rekord,rekord,car_brands.id_57
+car_models.id_680,Manta,manta,car_brands.id_57
+car_models.id_681,Ascona,ascona,car_brands.id_57
+car_models.id_682,Insignia,insignia,car_brands.id_57
+car_models.id_683,Zafira Tourer,zafira-tourer,car_brands.id_57
+car_models.id_684,Ampera,ampera,car_brands.id_57
+car_models.id_685,Mokka,mokka,car_brands.id_57
+car_models.id_686,Adam,adam,car_brands.id_57
+car_models.id_687,306,306,car_brands.id_58
+car_models.id_688,605,605,car_brands.id_58
+car_models.id_689,106,106,car_brands.id_58
+car_models.id_690,205,205,car_brands.id_58
+car_models.id_691,405,405,car_brands.id_58
+car_models.id_692,406,406,car_brands.id_58
+car_models.id_693,806,806,car_brands.id_58
+car_models.id_694,807,807,car_brands.id_58
+car_models.id_695,407,407,car_brands.id_58
+car_models.id_696,307,307,car_brands.id_58
+car_models.id_697,206,206,car_brands.id_58
+car_models.id_698,607,607,car_brands.id_58
+car_models.id_699,308,308,car_brands.id_58
+car_models.id_700,307 Sw,307-sw,car_brands.id_58
+car_models.id_701,206 Sw,206-sw,car_brands.id_58
+car_models.id_702,407 Sw,407-sw,car_brands.id_58
+car_models.id_703,1007,1007,car_brands.id_58
+car_models.id_704,107,107,car_brands.id_58
+car_models.id_705,207,207,car_brands.id_58
+car_models.id_706,4007,4007,car_brands.id_58
+car_models.id_707,Boxer,boxer,car_brands.id_58
+car_models.id_708,Partner,partner,car_brands.id_58
+car_models.id_709,J5,j5,car_brands.id_58
+car_models.id_710,604,604,car_brands.id_58
+car_models.id_711,505,505,car_brands.id_58
+car_models.id_712,309,309,car_brands.id_58
+car_models.id_713,Bipper,bipper,car_brands.id_58
+car_models.id_714,Partner Origin,partner-origin,car_brands.id_58
+car_models.id_715,3008,3008,car_brands.id_58
+car_models.id_716,5008,5008,car_brands.id_58
+car_models.id_717,Rcz,rcz,car_brands.id_58
+car_models.id_718,508,508,car_brands.id_58
+car_models.id_719,Ion,ion,car_brands.id_58
+car_models.id_720,208,208,car_brands.id_58
+car_models.id_721,4008,4008,car_brands.id_58
+car_models.id_722,Trans Sport,trans-sport,car_brands.id_59
+car_models.id_723,Firebird,firebird,car_brands.id_59
+car_models.id_724,Trans Am,trans-am,car_brands.id_59
+car_models.id_725,911,911,car_brands.id_60
+car_models.id_726,Boxster,boxster,car_brands.id_60
+car_models.id_727,Cayenne,cayenne,car_brands.id_60
+car_models.id_728,Carrera Gt,carrera-gt,car_brands.id_60
+car_models.id_729,Cayman,cayman,car_brands.id_60
+car_models.id_730,928,928,car_brands.id_60
+car_models.id_731,968,968,car_brands.id_60
+car_models.id_732,944,944,car_brands.id_60
+car_models.id_733,924,924,car_brands.id_60
+car_models.id_734,Panamera,panamera,car_brands.id_60
+car_models.id_735,918,918,car_brands.id_60
+car_models.id_736,Megane,megane,car_brands.id_61
+car_models.id_737,Safrane,safrane,car_brands.id_61
+car_models.id_738,Laguna,laguna,car_brands.id_61
+car_models.id_739,Clio,clio,car_brands.id_61
+car_models.id_740,Twingo,twingo,car_brands.id_61
+car_models.id_741,Nevada,nevada,car_brands.id_61
+car_models.id_742,Espace,espace,car_brands.id_61
+car_models.id_743,Spider,spider,car_brands.id_61
+car_models.id_744,Scenic,scenic,car_brands.id_61
+car_models.id_745,Grand Espace,grand-espace,car_brands.id_61
+car_models.id_746,Avantime,avantime,car_brands.id_61
+car_models.id_747,Vel Satis,vel-satis,car_brands.id_61
+car_models.id_748,Grand Scenic,grand-scenic,car_brands.id_61
+car_models.id_749,Clio Campus,clio-campus,car_brands.id_61
+car_models.id_750,Modus,modus,car_brands.id_61
+car_models.id_751,Express,express,car_brands.id_61
+car_models.id_752,Trafic,trafic,car_brands.id_61
+car_models.id_753,Master,master,car_brands.id_61
+car_models.id_754,Kangoo,kangoo,car_brands.id_61
+car_models.id_755,Mascott,mascott,car_brands.id_61
+car_models.id_756,Master Propulsion,master-propulsion,car_brands.id_61
+car_models.id_757,Maxity,maxity,car_brands.id_61
+car_models.id_758,R19,r19,car_brands.id_61
+car_models.id_759,R25,r25,car_brands.id_61
+car_models.id_760,R5,r5,car_brands.id_61
+car_models.id_761,R21,r21,car_brands.id_61
+car_models.id_762,R4,r4,car_brands.id_61
+car_models.id_763,Alpine,alpine,car_brands.id_61
+car_models.id_764,Fuego,fuego,car_brands.id_61
+car_models.id_765,R18,r18,car_brands.id_61
+car_models.id_766,R11,r11,car_brands.id_61
+car_models.id_767,R9,r9,car_brands.id_61
+car_models.id_768,R6,r6,car_brands.id_61
+car_models.id_769,Grand Modus,grand-modus,car_brands.id_61
+car_models.id_770,Kangoo Combi,kangoo-combi,car_brands.id_61
+car_models.id_771,Koleos,koleos,car_brands.id_61
+car_models.id_772,Fluence,fluence,car_brands.id_61
+car_models.id_773,Wind,wind,car_brands.id_61
+car_models.id_774,Latitude,latitude,car_brands.id_61
+car_models.id_775,Grand Kangoo Combi,grand-kangoo-combi,car_brands.id_61
+car_models.id_776,Siver Dawn,siver-dawn,car_brands.id_62
+car_models.id_777,Silver Spur,silver-spur,car_brands.id_62
+car_models.id_778,Park Ward,park-ward,car_brands.id_62
+car_models.id_779,Silver Seraph,silver-seraph,car_brands.id_62
+car_models.id_780,Corniche,corniche,car_brands.id_62
+car_models.id_781,Phantom,phantom,car_brands.id_62
+car_models.id_782,Touring,touring,car_brands.id_62
+car_models.id_783,Silvier,silvier,car_brands.id_62
+car_models.id_784,800,800,car_brands.id_63
+car_models.id_785,600,600,car_brands.id_63
+car_models.id_786,100,100,car_brands.id_63
+car_models.id_787,200,200,car_brands.id_63
+car_models.id_788,Coupe,coupe,car_brands.id_63
+car_models.id_789,400,400,car_brands.id_63
+car_models.id_790,45,45,car_brands.id_63
+car_models.id_791,Cabriolet,cabriolet,car_brands.id_63
+car_models.id_792,25,25,car_brands.id_63
+car_models.id_793,Mini,mini,car_brands.id_63
+car_models.id_794,75,75,car_brands.id_63
+car_models.id_795,Streetwise,streetwise,car_brands.id_63
+car_models.id_796,Sd,sd,car_brands.id_63
+car_models.id_797,900,900,car_brands.id_64
+car_models.id_798,93,93,car_brands.id_64
+car_models.id_799,9000,9000,car_brands.id_64
+car_models.id_800,95,95,car_brands.id_64
+car_models.id_801,93x,93x,car_brands.id_64
+car_models.id_802,94x,94x,car_brands.id_64
+car_models.id_803,300,300,car_brands.id_65
+car_models.id_804,350,350,car_brands.id_65
+car_models.id_805,Anibal,anibal,car_brands.id_65
+car_models.id_806,Anibal Pick Up,anibal-pick-up,car_brands.id_65
+car_models.id_807,Ibiza,ibiza,car_brands.id_66
+car_models.id_808,Cordoba,cordoba,car_brands.id_66
+car_models.id_809,Toledo,toledo,car_brands.id_66
+car_models.id_810,Marbella,marbella,car_brands.id_66
+car_models.id_811,Alhambra,alhambra,car_brands.id_66
+car_models.id_812,Arosa,arosa,car_brands.id_66
+car_models.id_813,Leon,leon,car_brands.id_66
+car_models.id_814,Altea,altea,car_brands.id_66
+car_models.id_815,Altea Xl,altea-xl,car_brands.id_66
+car_models.id_816,Altea Freetrack,altea-freetrack,car_brands.id_66
+car_models.id_817,Terra,terra,car_brands.id_66
+car_models.id_818,Inca,inca,car_brands.id_66
+car_models.id_819,Malaga,malaga,car_brands.id_66
+car_models.id_820,Ronda,ronda,car_brands.id_66
+car_models.id_821,Exeo,exeo,car_brands.id_66
+car_models.id_822,Mii,mii,car_brands.id_66
+car_models.id_823,Felicia,felicia,car_brands.id_67
+car_models.id_824,Forman,forman,car_brands.id_67
+car_models.id_825,Octavia,octavia,car_brands.id_67
+car_models.id_826,Octavia Tour,octavia-tour,car_brands.id_67
+car_models.id_827,Fabia,fabia,car_brands.id_67
+car_models.id_828,Superb,superb,car_brands.id_67
+car_models.id_829,Roomster,roomster,car_brands.id_67
+car_models.id_830,Scout,scout,car_brands.id_67
+car_models.id_831,Pickup,pickup,car_brands.id_67
+car_models.id_832,Favorit,favorit,car_brands.id_67
+car_models.id_833,130,130,car_brands.id_67
+car_models.id_834,S,s,car_brands.id_67
+car_models.id_835,Yeti,yeti,car_brands.id_67
+car_models.id_836,Citigo,citigo,car_brands.id_67
+car_models.id_837,Rapid,rapid,car_brands.id_67
+car_models.id_838,Smart,smart,car_brands.id_68
+car_models.id_839,Citycoupe,citycoupe,car_brands.id_68
+car_models.id_840,Fortwo,fortwo,car_brands.id_68
+car_models.id_841,Cabrio,cabrio,car_brands.id_68
+car_models.id_842,Crossblade,crossblade,car_brands.id_68
+car_models.id_843,Roadster,roadster,car_brands.id_68
+car_models.id_844,Forfour,forfour,car_brands.id_68
+car_models.id_845,Korando,korando,car_brands.id_69
+car_models.id_846,Family,family,car_brands.id_69
+car_models.id_847,K4d,k4d,car_brands.id_69
+car_models.id_848,Musso,musso,car_brands.id_69
+car_models.id_849,Korando Kj,korando-kj,car_brands.id_69
+car_models.id_850,Rexton,rexton,car_brands.id_69
+car_models.id_851,Rexton Ii,rexton-ii,car_brands.id_69
+car_models.id_852,Rodius,rodius,car_brands.id_69
+car_models.id_853,Kyron,kyron,car_brands.id_69
+car_models.id_854,Actyon,actyon,car_brands.id_69
+car_models.id_855,Sports Pick Up,sports-pick-up,car_brands.id_69
+car_models.id_856,Actyon Sports Pick Up,actyon-sports-pick-up,car_brands.id_69
+car_models.id_857,Kodando,kodando,car_brands.id_69
+car_models.id_858,Legacy,legacy,car_brands.id_70
+car_models.id_859,Impreza,impreza,car_brands.id_70
+car_models.id_860,Svx,svx,car_brands.id_70
+car_models.id_861,Justy,justy,car_brands.id_70
+car_models.id_862,Outback,outback,car_brands.id_70
+car_models.id_863,Forester,forester,car_brands.id_70
+car_models.id_864,G3x Justy,g3x-justy,car_brands.id_70
+car_models.id_865,B9 Tribeca,b9-tribeca,car_brands.id_70
+car_models.id_866,Xt,xt,car_brands.id_70
+car_models.id_867,1800,1800,car_brands.id_70
+car_models.id_868,Tribeca,tribeca,car_brands.id_70
+car_models.id_869,Wrx Sti,wrx-sti,car_brands.id_70
+car_models.id_870,Trezia,trezia,car_brands.id_70
+car_models.id_871,Xv,xv,car_brands.id_70
+car_models.id_872,Brz,brz,car_brands.id_70
+car_models.id_873,Maruti,maruti,car_brands.id_71
+car_models.id_874,Swift,swift,car_brands.id_71
+car_models.id_875,Vitara,vitara,car_brands.id_71
+car_models.id_876,Baleno,baleno,car_brands.id_71
+car_models.id_877,Samurai,samurai,car_brands.id_71
+car_models.id_878,Alto,alto,car_brands.id_71
+car_models.id_879,Wagon R,wagon-r,car_brands.id_71
+car_models.id_880,Jimny,jimny,car_brands.id_71
+car_models.id_881,Grand Vitara,grand-vitara,car_brands.id_71
+car_models.id_882,Ignis,ignis,car_brands.id_71
+car_models.id_883,Liana,liana,car_brands.id_71
+car_models.id_884,Grand Vitara Xl7,grand-vitara-xl7,car_brands.id_71
+car_models.id_885,Sx4,sx4,car_brands.id_71
+car_models.id_886,Splash,splash,car_brands.id_71
+car_models.id_887,Kizashi,kizashi,car_brands.id_71
+car_models.id_888,Samba,samba,car_brands.id_72
+car_models.id_889,Tagora,tagora,car_brands.id_72
+car_models.id_890,Solara,solara,car_brands.id_72
+car_models.id_891,Horizon,horizon,car_brands.id_72
+car_models.id_892,Telcosport,telcosport,car_brands.id_73
+car_models.id_893,Telco,telco,car_brands.id_73
+car_models.id_894,Sumo,sumo,car_brands.id_73
+car_models.id_895,Safari,safari,car_brands.id_73
+car_models.id_896,Indica,indica,car_brands.id_73
+car_models.id_897,Indigo,indigo,car_brands.id_73
+car_models.id_898,Grand Safari,grand-safari,car_brands.id_73
+car_models.id_899,Tl Pick Up,tl-pick-up,car_brands.id_73
+car_models.id_900,Xenon Pick Up,xenon-pick-up,car_brands.id_73
+car_models.id_901,Vista,vista,car_brands.id_73
+car_models.id_902,Xenon,xenon,car_brands.id_73
+car_models.id_903,Aria,aria,car_brands.id_73
+car_models.id_904,Carina E,carina-e,car_brands.id_74
+car_models.id_905,4runner,4runner,car_brands.id_74
+car_models.id_906,Camry,camry,car_brands.id_74
+car_models.id_907,Rav4,rav4,car_brands.id_74
+car_models.id_908,Celica,celica,car_brands.id_74
+car_models.id_909,Supra,supra,car_brands.id_74
+car_models.id_910,Paseo,paseo,car_brands.id_74
+car_models.id_911,Land Cruiser 80,land-cruiser-80,car_brands.id_74
+car_models.id_912,Land Cruiser 100,land-cruiser-100,car_brands.id_74
+car_models.id_913,Land Cruiser,land-cruiser,car_brands.id_74
+car_models.id_914,Land Cruiser 90,land-cruiser-90,car_brands.id_74
+car_models.id_915,Corolla,corolla,car_brands.id_74
+car_models.id_916,Auris,auris,car_brands.id_74
+car_models.id_917,Avensis,avensis,car_brands.id_74
+car_models.id_918,Picnic,picnic,car_brands.id_74
+car_models.id_919,Yaris,yaris,car_brands.id_74
+car_models.id_920,Yaris Verso,yaris-verso,car_brands.id_74
+car_models.id_921,Mr2,mr2,car_brands.id_74
+car_models.id_922,Previa,previa,car_brands.id_74
+car_models.id_923,Prius,prius,car_brands.id_74
+car_models.id_924,Avensis Verso,avensis-verso,car_brands.id_74
+car_models.id_925,Corolla Verso,corolla-verso,car_brands.id_74
+car_models.id_926,Corolla Sedan,corolla-sedan,car_brands.id_74
+car_models.id_927,Aygo,aygo,car_brands.id_74
+car_models.id_928,Hilux,hilux,car_brands.id_74
+car_models.id_929,Dyna,dyna,car_brands.id_74
+car_models.id_930,Land Cruiser 200,land-cruiser-200,car_brands.id_74
+car_models.id_931,Verso,verso,car_brands.id_74
+car_models.id_932,Iq,iq,car_brands.id_74
+car_models.id_933,Urban Cruiser,urban-cruiser,car_brands.id_74
+car_models.id_934,Gt86,gt86,car_brands.id_74
+car_models.id_935,100,100,car_brands.id_75
+car_models.id_936,121,121,car_brands.id_75
+car_models.id_937,214,214,car_brands.id_76
+car_models.id_938,110 Stawra,110-stawra,car_brands.id_76
+car_models.id_939,111 Stawra,111-stawra,car_brands.id_76
+car_models.id_940,215,215,car_brands.id_76
+car_models.id_941,112 Stawra,112-stawra,car_brands.id_76
+car_models.id_942,Passat,passat,car_brands.id_77
+car_models.id_943,Golf,golf,car_brands.id_77
+car_models.id_944,Vento,vento,car_brands.id_77
+car_models.id_945,Polo,polo,car_brands.id_77
+car_models.id_946,Corrado,corrado,car_brands.id_77
+car_models.id_947,Sharan,sharan,car_brands.id_77
+car_models.id_948,Lupo,lupo,car_brands.id_77
+car_models.id_949,Bora,bora,car_brands.id_77
+car_models.id_950,Jetta,jetta,car_brands.id_77
+car_models.id_951,New Beetle,new-beetle,car_brands.id_77
+car_models.id_952,Phaeton,phaeton,car_brands.id_77
+car_models.id_953,Touareg,touareg,car_brands.id_77
+car_models.id_954,Touran,touran,car_brands.id_77
+car_models.id_955,Multivan,multivan,car_brands.id_77
+car_models.id_956,Caddy,caddy,car_brands.id_77
+car_models.id_957,Golf Plus,golf-plus,car_brands.id_77
+car_models.id_958,Fox,fox,car_brands.id_77
+car_models.id_959,Eos,eos,car_brands.id_77
+car_models.id_960,Caravelle,caravelle,car_brands.id_77
+car_models.id_961,Tiguan,tiguan,car_brands.id_77
+car_models.id_962,Transporter,transporter,car_brands.id_77
+car_models.id_963,Lt,lt,car_brands.id_77
+car_models.id_964,Taro,taro,car_brands.id_77
+car_models.id_965,Crafter,crafter,car_brands.id_77
+car_models.id_966,California,california,car_brands.id_77
+car_models.id_967,Santana,santana,car_brands.id_77
+car_models.id_968,Scirocco,scirocco,car_brands.id_77
+car_models.id_969,Passat Cc,passat-cc,car_brands.id_77
+car_models.id_970,Amarok,amarok,car_brands.id_77
+car_models.id_971,Beetle,beetle,car_brands.id_77
+car_models.id_972,Up,up,car_brands.id_77
+car_models.id_973,Cc,cc,car_brands.id_77
+car_models.id_974,440,440,car_brands.id_78
+car_models.id_975,850,850,car_brands.id_78
+car_models.id_976,S70,s70,car_brands.id_78
+car_models.id_977,V70,v70,car_brands.id_78
+car_models.id_978,V70 Classic,v70-classic,car_brands.id_78
+car_models.id_979,940,940,car_brands.id_78
+car_models.id_980,480,480,car_brands.id_78
+car_models.id_981,460,460,car_brands.id_78
+car_models.id_982,960,960,car_brands.id_78
+car_models.id_983,S90,s90,car_brands.id_78
+car_models.id_984,V90,v90,car_brands.id_78
+car_models.id_985,Classic,classic,car_brands.id_78
+car_models.id_986,S40,s40,car_brands.id_78
+car_models.id_987,V40,v40,car_brands.id_78
+car_models.id_988,V50,v50,car_brands.id_78
+car_models.id_989,V70 Xc,v70-xc,car_brands.id_78
+car_models.id_990,Xc70,xc70,car_brands.id_78
+car_models.id_991,C70,c70,car_brands.id_78
+car_models.id_992,S80,s80,car_brands.id_78
+car_models.id_993,S60,s60,car_brands.id_78
+car_models.id_994,Xc90,xc90,car_brands.id_78
+car_models.id_995,C30,c30,car_brands.id_78
+car_models.id_996,780,780,car_brands.id_78
+car_models.id_997,760,760,car_brands.id_78
+car_models.id_998,740,740,car_brands.id_78
+car_models.id_999,240,240,car_brands.id_78
+car_models.id_1000,360,360,car_brands.id_78
+car_models.id_1001,340,340,car_brands.id_78
+car_models.id_1002,Xc60,xc60,car_brands.id_78
+car_models.id_1003,V60,v60,car_brands.id_78
+car_models.id_1004,V40 Cross Country,v40-cross-country,car_brands.id_78
+car_models.id_1005,353,353,car_brands.id_79
+car_models.id_1006,Mini,mini,car_brands.id_53
+car_models.id_1007,Countryman,countryman,car_brands.id_53
+car_models.id_1008,Paceman,paceman,car_brands.id_53
