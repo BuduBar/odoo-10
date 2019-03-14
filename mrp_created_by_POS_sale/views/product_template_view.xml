@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+    <record id="product_template_to_make_mrp_form" model="ir.ui.view">
+        <field name="name">product.template.to.make.mrp.form</field>
+        <field name="model">product.template</field>
+        <field name="inherit_id" ref="point_of_sale.product_template_form_view"/>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='pos_categ_id']" position="after">
+               <field name="to_make_mrp" attrs="{'invisible': [('available_in_pos', '=', False)]}"/>
+            </xpath>
+        </field>
+    </record>
+</odoo>

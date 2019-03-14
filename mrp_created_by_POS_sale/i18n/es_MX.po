@@ -1,0 +1,62 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* mrp_created_by_POS_sale
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-08 05:56+0000\n"
+"PO-Revision-Date: 2019-02-08 05:56+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: mrp_created_by_POS_sale
+#: model:ir.model.fields,help:mrp_created_by_POS_sale.field_product_product_to_make_mrp
+#: model:ir.model.fields,help:mrp_created_by_POS_sale.field_product_template_to_make_mrp
+msgid "Check if the product should be make mrp order"
+msgstr "Revisa si los productos deben fabricarse por ventas"
+
+#. module: mrp_created_by_POS_sale
+#: model:ir.model,name:mrp_created_by_POS_sale.model_pos_order
+msgid "Point of Sale Orders"
+msgstr "Pedidos del TPV"
+
+#. module: mrp_created_by_POS_sale
+#: model:ir.model,name:mrp_created_by_POS_sale.model_product_product
+msgid "Product"
+msgstr "Producto"
+
+#. module: mrp_created_by_POS_sale
+#: model:ir.model,name:mrp_created_by_POS_sale.model_product_template
+msgid "Product Template"
+msgstr "Plantilla de producto"
+
+#. module: mrp_created_by_POS_sale
+#: model:ir.model.fields,field_description:mrp_created_by_POS_sale.field_product_product_to_make_mrp
+#: model:ir.model.fields,field_description:mrp_created_by_POS_sale.field_product_template_to_make_mrp
+msgid "To Create MRP Order"
+msgstr "Fabricar por Venta"
+
+#. module: mrp_created_by_POS_sale
+#: code:addons/mrp_created_by_POS_sale/models/product_template.py:13
+#, python-format
+msgid "To make MRP"
+msgstr "Fabricar por Venta"
+
+#. module: mrp_created_by_POS_sale
+#: code:addons/mrp_created_by_POS_sale/models/pos_order.py:102
+#, python-format
+msgid "You need to provide a lot for the finished product"
+msgstr "You need to provide a lot for the finished product"
+
+#. module: mrp_created_by_POS_sale
+#: code:addons/mrp_created_by_POS_sale/models/pos_order.py:72
+#, python-format
+msgid "You should at least produce some quantity"
+msgstr "Deberías producir alguna cantidad."
+
